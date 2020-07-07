@@ -32,4 +32,4 @@ Catalyst Point-of-sales (POS) system has aim to foster the growth of Small and M
 
 ## Demo
 
-![](Animated-GIF-downsized_large.gif)
+![](catalyst-demo.gif)
