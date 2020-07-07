@@ -11,6 +11,10 @@ Catalyst Point-of-sales (POS) system has aim to foster the growth of Small and M
 
 > This system is part of my Business Information Systems degree completion. Further details can be found [here](https://drive.google.com/file/d/1WieEYHdmAAT-ZQkZRTqmf5LBN4HPfogh/view?usp=sharing).
 
+## :rocket: Demo
+
+![](catalyst-demo.gif)
+
 ## :page_facing_up: System Features
 
 - User authentication and role-based access
@@ -30,6 +34,4 @@ Catalyst Point-of-sales (POS) system has aim to foster the growth of Small and M
 | Data Analytics Tool  | Microsoft Power BI |
 | IDE                  | Visual Studio 2015 |
 
-## Demo
 
-![](catalyst-demo.gif)
